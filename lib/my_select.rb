@@ -5,5 +5,5 @@ def my_select(collection)
    new_collection = yield([i])
    i += 1
  end
-  
+
 end
